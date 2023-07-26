@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kshitij kumar singh</h1>
 <h3 align="center">Software Developer</h3>
--  I’m currently learning **iOS Development**
+-  I’m currently learning iOS Development
 
 -  All of my projects are available at [https://github.com/Kshitijkumar15](https://github.com/Kshitijkumar15)
 
