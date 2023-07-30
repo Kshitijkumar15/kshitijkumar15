@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kshitij kumar singh</h1>
 <h3 align="center">Software Developer</h3>
--  I’m currently learning iOS Development
+-  Passionate engineer fresher with a keen interest in Android and iOS development. Eager to create impactful mobile experiences that blend innovation and usability. Proficient in Java and Swift, with a focus on crafting seamless user interfaces and implementing cutting-edge functionalities. Open to collaborative opportunities that foster growth and learning in the dynamic world of app development. Let's connect and explore the possibilities together!
 
 -  All of my projects are available at [https://github.com/Kshitijkumar15](https://github.com/Kshitijkumar15)
 
