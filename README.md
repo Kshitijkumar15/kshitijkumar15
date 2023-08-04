@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Kshitij kumar singh</h1>
+<h1 align="center">Hi 👋, I'm Kshitij kumar singh</h1><br>
 <h3 align="center">Passionate engineer fresher with a keen interest in Android and iOS development. Eager to create impactful mobile experiences that blend innovation and usability. Proficient in Java and Swift, with a focus on crafting seamless user interfaces and implementing cutting-edge functionalities. Open to collaborative opportunities that foster growth and learning in the dynamic world of app development. Let's connect and explore the possibilities together!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitijkumar15" alt="kshitijkumar15" /></a> </p>
 
-- - iOs App [ToDo](https://github.com/Kshitijkumar15/iosToDo)
+-iOs App [ToDo](https://github.com/Kshitijkumar15/iosToDo)
 
-- -Latest Project [Notepad](https://github.com/Kshitijkumar15/Notepad)
+-Latest Project [Notepad](https://github.com/Kshitijkumar15/Notepad)
 
-- -First Android App [Music](https://github.com/Kshitijkumar15/Music)
+-First Android App [Music](https://github.com/Kshitijkumar15/Music)
 
-- 📫 How to reach me **Kshitijkumarsingh58@gmail.com**
+📫 How to reach me **Kshitijkumarsingh58@gmail.com**
 
-- -Resume [https://drive.google.com/file/d/1WhTs37nLZ9MeyaySH_MhsitLLkBlKY4i/view?usp=sharing](https://drive.google.com/file/d/1WhTs37nLZ9MeyaySH_MhsitLLkBlKY4i/view?usp=sharing)
+- Resume [https://drive.google.com/file/d/1WhTs37nLZ9MeyaySH_MhsitLLkBlKY4i/view?usp=sharing](https://drive.google.com/file/d/1WhTs37nLZ9MeyaySH_MhsitLLkBlKY4i/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
