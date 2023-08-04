@@ -2,7 +2,7 @@
 <h3 align="center">Passionate engineer fresher with a keen interest in Android and iOS development. Eager to create impactful mobile experiences that blend innovation and usability. Proficient in Java and Swift, with a focus on crafting seamless user interfaces and implementing cutting-edge functionalities. Open to collaborative opportunities that foster growth and learning in the dynamic world of app development. Let's connect and explore the possibilities together!</h3>
 
 
-<a href=https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/animation_lkwt774w.mp4a>
+<a href=https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/animation_lkwtm2l8_small.gif>
 
 -Currenty working on [ToDo](https://github.com/Kshitijkumar15/iosToDo)
 
