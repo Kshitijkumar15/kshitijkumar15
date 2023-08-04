@@ -8,9 +8,9 @@
 
 -First Android App [Music](https://github.com/Kshitijkumar15/Music)
 
-📫 How to reach me **Kshitijkumarsingh58@gmail.com**
+-Reach me **Kshitijkumarsingh58@gmail.com**
 
-- Resume [https://drive.google.com/file/d/1WhTs37nLZ9MeyaySH_MhsitLLkBlKY4i/view?usp=sharing](https://drive.google.com/file/d/1WhTs37nLZ9MeyaySH_MhsitLLkBlKY4i/view?usp=sharing)
+-Resume [https://drive.google.com/file/d/1WhTs37nLZ9MeyaySH_MhsitLLkBlKY4i/view?usp=sharing](https://drive.google.com/file/d/1WhTs37nLZ9MeyaySH_MhsitLLkBlKY4i/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
