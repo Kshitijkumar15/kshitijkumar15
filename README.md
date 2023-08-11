@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Kshitij kumar singh</h1><br>
 
-<img src="https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/animation_ll5xnspo.mp4" alt="kshitij2205" height="400" width="400" /></a>
+<img src="https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/software-developer.png" alt="kshitij2205" height="400" width="400" /></a>
 </div>
 <br>
 <br>
