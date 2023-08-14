@@ -18,7 +18,7 @@
 
 -Reach me **Kshitijkumarsingh58@gmail.com**
 
--Resume [https://drive.google.com/file/d/1WhTs37nLZ9MeyaySH_MhsitLLkBlKY4i/view?usp=sharing](https://drive.google.com/file/d/1WhTs37nLZ9MeyaySH_MhsitLLkBlKY4i/view?usp=sharing)
+-[Resume](https://drive.google.com/file/d/1kqIb3hJHQjpzSSOgyoPLDymoL8Umqh5S/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
