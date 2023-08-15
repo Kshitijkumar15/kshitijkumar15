@@ -10,13 +10,13 @@
 
 
 
-# Currenty working on [ToDo](https://github.com/Kshitijkumar15/iosToDo)
+## Currenty working on [ToDo](https://github.com/Kshitijkumar15/iosToDo)
 
-# Latest Project [Notepad](https://github.com/Kshitijkumar15/Notepad)
+## Latest Project [Notepad](https://github.com/Kshitijkumar15/Notepad)
 
-# First Android App [Music](https://github.com/Kshitijkumar15/Music)
+## First Android App [Music](https://github.com/Kshitijkumar15/Music)
 
-# Reach me **Kshitijkumarsingh58@gmail.com**
+## Reach me **Kshitijkumarsingh58@gmail.com**
 
 -[Resume](https://drive.google.com/file/d/1kqIb3hJHQjpzSSOgyoPLDymoL8Umqh5S/view?usp=sharing) 
 <h3 align="left">Connect with me:</h3>
