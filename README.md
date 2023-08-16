@@ -2,7 +2,6 @@
   <h1 align="center">Hi 👋, I'm Kshitij kumar singh</h1><br>
 
 <img src="https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/software-development.png" alt="kshitij2205" height="400" width="400" /></a>
-<img src="https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/animation_lldobhp1_small.gif" alt="kshitij2205" height="800" width="800" /></a>
 </div>
 <br>
 <br>
