@@ -5,7 +5,7 @@
 </div>
 <br>
 <br>
-<h3 align="center">Passionate engineer fresher interested in Android and iOS development. Eager to create impactful mobile experiences that blend innovation and usability. Proficient in Java and Swift, focusing on crafting seamless user interfaces and implementing cutting-edge functionalities. Open to collaborative opportunities that foster growth and learning in the dynamic app development world. Let's connect and explore the possibilities together!</h3>
+<h3 >Passionate engineer fresher interested in Android and iOS development. Eager to create impactful mobile experiences that blend innovation and usability. Proficient in Java and Swift, focusing on crafting seamless user interfaces and implementing cutting-edge functionalities. Open to collaborative opportunities that foster growth and learning in the dynamic app development world. Let's connect and explore the possibilities together!</h3>
 
 
 
