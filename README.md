@@ -2,10 +2,11 @@
   <h1 align="center">Hi 👋, I'm Kshitij kumar singh</h1><br>
 
 <img src="https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/software-development.png" alt="kshitij2205" height="400" width="400" /></a>
+<img src="https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/animation_lldobhp1_small.gif" alt="kshitij2205" height="800" width="800" /></a>
 </div>
 <br>
 <br>
-<h3 align="center">Passionate engineer fresher with a keen interest in Android and iOS development. Eager to create impactful mobile experiences that blend innovation and usability. Proficient in Java and Swift, with a focus on crafting seamless user interfaces and implementing cutting-edge functionalities. Open to collaborative opportunities that foster growth and learning in the dynamic world of app development. Let's connect and explore the possibilities together!</h3>
+<h3 align="center">Passionate engineer fresher interested in Android and iOS development. Eager to create impactful mobile experiences that blend innovation and usability. Proficient in Java and Swift, focusing on crafting seamless user interfaces and implementing cutting-edge functionalities. Open to collaborative opportunities that foster growth and learning in the dynamic app development world. Let's connect and explore the possibilities together!</h3>
 
 
 
