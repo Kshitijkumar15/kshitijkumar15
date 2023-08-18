@@ -27,11 +27,11 @@
 <h3 align="left">Languages and Tools :</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> &nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitijkumar15&show_icons=true&locale=en&layout=compact" alt="kshitijkumar15" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitijkumar15&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="kshitijkumar15" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitijkumar15&show_icons=true&locale=en" alt="kshitijkumar15" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitijkumar15&show_icons=true&locale=en&bg_color=000000" alt="kshitijkumar15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkumar15&" alt="kshitijkumar15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkumar15" alt="kshitijkumar15" /></p>
 
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijkumar15&theme=react-dark&hide_border=false&bg_color=FFFFFF&line=fb8c00&color=000000&point=24292e&area=true" alt="Activity Graph" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijkumar15&theme=react-dark&hide_border=false&bg_color=000000&line=fb8c00&color=758283&point=24292e&area=true" alt="Activity Graph" />
