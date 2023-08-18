@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitijkumar15&show_icons=true&locale=en&bg_color=000000" alt="kshitijkumar15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkumar15" alt="kshitijkumar15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkumar15&layout=compact&border_radius=5&show_icons=true&theme=dark&hide_border=false&text_color=ffffff" alt="kshitijkumar15" /></p>
 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijkumar15&theme=react-dark&hide_border=false&bg_color=000000&line=fb8c00&color=758283&point=24292e&area=true" alt="Activity Graph" />
