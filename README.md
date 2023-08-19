@@ -7,10 +7,6 @@
 <br>
 <h2>As a passionate engineer fresh out of university, I am deeply interested in Android and iOS development. My goal is to create mobile applications that blend innovation and usability. I am proficient in both Java and Swift, and I focus on crafting seamless user interfaces while implementing cutting-edge functionalities. I am excited to collaborate with others and to learn and grow in the dynamic world of app development. Let's connect and explore possibilities together! </h2>
 
-
-<br>
-<br>
-
 ## Currenty working on [ToDo](https://github.com/Kshitijkumar15/iosToDo)
 
 ## Latest Project [Notepad](https://github.com/Kshitijkumar15/Notepad)
@@ -20,6 +16,7 @@
 ## Reach me **Kshitijkumarsingh58@gmail.com**
 
 ## [Resume](https://drive.google.com/file/d/1kqIb3hJHQjpzSSOgyoPLDymoL8Umqh5S/view?usp=sharing) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kshitij2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij2205" height="30" width="40" /></a>
