@@ -5,7 +5,7 @@
 </div>
 <br>
 <br>
-<h3 >Passionate engineer fresher interested in Android and iOS development. Eager to create impactful mobile experiences that blend innovation and usability. Proficient in Java and Swift, focusing on crafting seamless user interfaces and implementing cutting-edge functionalities. Open to collaborative opportunities that foster growth and learning in the dynamic app development world. Let's connect and explore the possibilities together!</h3>
+<h3 >Passionate engineer fresher who is interested in Android and iOS development. Eager to create impactful mobile experiences that blend innovation and usability. Proficient in Java and Swift, focusing on crafting seamless user interfaces and implementing cutting-edge functionalities. Open to collaborative opportunities that foster growth and learning in the dynamic app development world. Let's connect and explore the possibilities together!</h3>
 
 
 
@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkumar15&layout=compact&border_radius=5&show_icons=true&theme=dark&hide_border=false&text_color=ffffff" alt="kshitijkumar15" /></p>
 
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijkumar15&theme=react-dark&hide_border=false&bg_color=000000&line=fb8c00&color=758283&point=24292e&area=true" alt="Activity Graph" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijkumar15&theme=react-dark&hide_border=false&bg_color=000000&line=fb8c00&color=758283&point=FFFFFF&area=true" alt="Activity Graph" />
