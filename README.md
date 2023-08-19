@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Kshitij</h1><br>
 
-<img src="https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/software-development.png" alt="kshitij2205" height="400" width="400" /></a>
+<img src="https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/software-development.jpeg" alt="kshitij2205" height="400" width="400" /></a>
 </div>
 <br>
 <br>
