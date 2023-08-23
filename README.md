@@ -5,7 +5,7 @@
 </div>
 <br>
 <br>
-<h2>As a passionate engineer fresh out of university, I am deeply interested in Android and iOS development. My goal is to create mobile applications that blend innovation and usability. I am proficient in both Java and Swift and focus on crafting seamless user interfaces while implementing cutting-edge functionalities. I am excited to collaborate with others and learn and grow in the dynamic app development world. Let's connect and explore possibilities together! </h2>
+<h2>As a passionate engineer fresh out of university, I am deeply interested in Android and iOS development. My goal is to create mobile applications that blend innovation and usability. I am proficient in Java and Swift and focus on crafting seamless user interfaces while implementing cutting-edge functionalities. I am excited to collaborate with others and learn and grow in the dynamic app development world. Let's connect and explore possibilities together! </h2>
 
 ## Currenty working on [ToDo](https://github.com/Kshitijkumar15/iosToDo)
 
@@ -32,5 +32,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkumar15&layout=compact&border_radius=5&show_icons=true&theme=highcontrast&hide_border=false&bg_color=000000&text_color=FFFFFF" alt="kshitijkumar15" width="500" /></p>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijkumar15&theme=react-dark&hide_border=false&bg_color=000000&line=fb8c00&color=758283&point=FFFFFF&area=true" alt="Activity Graph" />
-
-
