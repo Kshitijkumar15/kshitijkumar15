@@ -6,6 +6,7 @@
 <br>
 <br>
 <h2>As a passionate engineer fresh out of university, I am deeply interested in Android and iOS development. My goal is to create mobile applications that blend innovation and usability. I am proficient in Java and Swift and focus on crafting seamless user interfaces while implementing cutting-edge functionalities. I am excited to collaborate with others and learn and grow in the dynamic app development world. Let's connect and explore possibilities together! </h2>
+<br>
 
 ## Currenty working on [ToDo](https://github.com/Kshitijkumar15/iosToDo)
 
