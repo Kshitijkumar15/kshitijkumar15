@@ -11,9 +11,9 @@
 
 <br>
 
-## Currenty working on [VueJS][(https://github.com/Kshitijkumar15/VueJS)]
+## Currenty working on [VueJS](https://github.com/Kshitijkumar15/VueJS)
 
-## Latest Project [NestJS][(https://github.com/Kshitijkumar15/nestjs-REST-API)]
+## Latest Project [NestJS](https://github.com/Kshitijkumar15/nestjs-REST-API)
 
 ## Initial Android App [Musical](https://github.com/Kshitijkumar15/Music)
 
