@@ -11,9 +11,9 @@
 
 <br>
 
-## Currenty working on [ToDo](https://github.com/Kshitijkumar15/iosToDo)
+## Currenty working on [VueJS][(https://github.com/Kshitijkumar15/VueJS)]
 
-## Latest Project [Notable](https://github.com/Kshitijkumar15/Notepad)
+## Latest Project [NestJS][(https://github.com/Kshitijkumar15/nestjs-REST-API)]
 
 ## Initial Android App [Musical](https://github.com/Kshitijkumar15/Music)
 
