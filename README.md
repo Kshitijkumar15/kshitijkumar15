@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Kshitij</h1><br>
 
-![Video game developer-bro](https://github.com/Kshitijkumar15/kshitijkumar15/assets/66892634/4d550ed1-76b7-41e4-a731-2739717714e5)
+![undraw_Profile_data_re_v81r-2](https://github.com/Kshitijkumar15/kshitijkumar15/assets/66892634/98119cc3-e3df-42e2-a569-45961fd0f649)
 
 
 </div>
