@@ -1,13 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Kshitij</h1><br>
 
-![undraw_Profile_data_re_v81r-2](https://github.com/Kshitijkumar15/kshitijkumar15/assets/66892634/98119cc3-e3df-42e2-a569-45961fd0f649)
-
-
 </div>
-
-<br>
-<br>
 <h2>As a passionate engineer with a strong foundation in data analytics and growth-driven projects, I am eager to leverage my skills to create impactful solutions. Fresh out of university, I have developed strategies that enhance user engagement and retention, contributing to significant project scaling and sustainable growth. I am proficient in both Java and MySQL. With a keen interest in collaborating, learning, and thriving in the ever-evolving field of software engineering, I look forward to connecting and exploring new opportunities to innovate and build meaningful solutions. </h2>
 
 <br>
@@ -35,6 +29,6 @@
 
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitijkumar15&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="kshitijkumar15" width="400"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkumar15&layout=compact&border_radius=5&show_icons=true&theme=highcontrast&hide_border=false&bg_color=000000&text_color=FFFFFF" alt="kshitijkumar15" width="500" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kshitijkumar15&layout=compact&border_radius=5&show_icons=true&theme=highcontrast&hide_border=false&bg_color=000000&text_color=FFFFFF" alt="kshitijkumar15" width="500" /> </p>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijkumar15&theme=react-dark&hide_border=false&bg_color=000000&line=fb8c00&color=758283&point=FFFFFF&area=true" alt="Activity Graph" />
