@@ -8,7 +8,7 @@
 
 <br>
 <br>
-<h2>As a passionate engineer fresh out of university, I am deeply interested in Android and iOS development. My goal is to create mobile applications that blend innovation and usability. I am proficient in Java and Swift and focus on crafting seamless user interfaces while implementing cutting-edge functionalities. I am excited to collaborate with others and learn and grow in the dynamic app development world. Let's connect and explore possibilities together! </h2>
+<h2>As a passionate engineer with a strong foundation in data analytics and growth-driven projects, I am eager to leverage my skills to create impactful solutions. Fresh out of university, I have developed strategies that enhance user engagement and retention, contributing to significant project scaling and sustainable growth. I am proficient in both Java and MySQL. With a keen interest in collaborating, learning, and thriving in the ever-evolving field of software engineering, I look forward to connecting and exploring new opportunities to innovate and build meaningful solutions. </h2>
 
 <br>
 
