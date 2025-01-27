@@ -5,13 +5,6 @@
 
 ## Reach me **Kshitijkumarsingh58@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kshitij2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij2205" height="40" width="40" /></a>
-  <a href="botkshitij" target="blank"><img align="center" src="https://github.com/Kshitijkumar15/kshitijkumar15/assets/66892634/6427b20e-0e22-4b7e-bee1-2ccbf8a9bb04" alt="kshitij2205" height="40" width="40" /></a>
-</p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kshitijkumar15&layout=compact&border_radius=5&show_icons=true&theme=highcontrast&hide_border=false&bg_color=000000&text_color=FFFFFF" alt="kshitijkumar15" width="500" /> </p>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijkumar15&theme=react-dark&hide_border=false&bg_color=000000&line=fb8c00&color=758283&point=FFFFFF&area=true" alt="Activity Graph" />
