@@ -1,11 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Kshitij</h1><br>
 </div>
-<h2>As a passionate engineer with a strong foundation in data analytics and growth-driven projects, I am eager to leverage my skills to create impactful solutions. Fresh out of university, I have developed strategies that enhance user engagement and retention, contributing to significant project scaling and sustainable growth at Vedantu. I am proficient in MySQL and i have a good grip on python,Excel, Data Visualisation. With a keen interest in collaborating, learning, and thriving in the ever-evolving field of software engineering, I look forward to connecting and exploring new opportunities to innovate and build meaningful solutions. </h2>
-
-## Latest Project [Weather Cast](https://github.com/Kshitijkumar15/WeatherCast)
-
-## Initial Android App [Musical](https://github.com/Kshitijkumar15/Music)
+<h2>As a passionate engineer with a strong foundation in data analytics and growth-driven projects, I am eager to leverage my skills to create impactful solutions. Fresh out of university, I have developed strategies that enhance user engagement and retention, contributing to significant project scaling and sustainable growth at Vedantu. I am proficient in MySQL and i have a good grip on python, Excel, Data Visualisation. With a keen interest in collaborating, learning, and thriving in the ever-evolving field of software engineering, I look forward to connecting and exploring new opportunities to innovate and build meaningful solutions. </h2>
 
 ## Reach me **Kshitijkumarsingh58@gmail.com**
 
@@ -15,8 +11,6 @@
   <a href="botkshitij" target="blank"><img align="center" src="https://github.com/Kshitijkumar15/kshitijkumar15/assets/66892634/6427b20e-0e22-4b7e-bee1-2ccbf8a9bb04" alt="kshitij2205" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Kshitijkumar15/kshitijkumar15/blob/Beginning/android.png" alt="android" width="40" height="40"/> </a> &nbsp &nbsp &nbsp <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> &nbsp &nbsp &nbsp <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp &nbsp &nbsp <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp &nbsp &nbsp <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> &nbsp &nbsp &nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kshitijkumar15&layout=compact&border_radius=5&show_icons=true&theme=highcontrast&hide_border=false&bg_color=000000&text_color=FFFFFF" alt="kshitijkumar15" width="500" /> </p>
 
