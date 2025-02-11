@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Kshitij</h1><br>
 </div>
-<h2>As a passionate engineer with a strong foundation in data analytics and growth-driven projects, I am eager to leverage my skills to create impactful solutions. Fresh out of university, I have developed strategies that enhance user engagement and retention, contributing to significant project scaling and sustainable growth at Vedantu. I am proficient in MySQL and i have a good grip on python, Excel, Data Visualisation. With a keen interest in collaborating, learning, and thriving in the ever-evolving field of software engineering, I look forward to connecting and exploring new opportunities to innovate and build meaningful solutions. </h2>
+<h2>As a passionate engineer with a foundation in data analytics and growth-driven projects, I am eager to leverage my skills to create impactful solutions. Fresh out of university, I have developed strategies that enhance user engagement and retention, contributing to significant project scaling and sustainable growth at Vedantu. I am proficient in MySQL and I have a good grip on python, Excel, Data Visualisation. With a keen interest in collaborating, learning, and thriving in the ever-evolving field of software engineering, I look forward to connecting and exploring new opportunities to innovate and build meaningful solutions. </h2>
 
 ## Reach me **Kshitijkumarsingh58@gmail.com**
 
