@@ -7,4 +7,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kshitijkumar15&layout=compact&border_radius=5&show_icons=true&theme=highcontrast&hide_border=false&bg_color=000000&text_color=FFFFFF" alt="kshitijkumar15" width="300" height="300" /> </p>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kshitijkumar15&theme=react-dark&hide_border=false&bg_color=000000&line=fb8c00&color=758283&point=FFFFFF&area=true" alt="Activity Graph" />
